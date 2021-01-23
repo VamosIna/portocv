@@ -1,0 +1,22 @@
+.jumbotron {
+    background-image: url('img/search_outline\ II.png');
+    background-size: 100vh;
+    background-repeat: no-repeat;
+    background-position: 60% 90%;
+    /* opacity: 0.5; */
+    height: 110vh;
+    text-align: center;
+    margin-top: -100px ;
+}
+.jumbotron .display-4 {
+    color: black;
+    margin-top: 120px;
+}
+.jumbotron p {
+    color: black;
+}
+.img{
+    width: 250px;
+    margin-left: 50px;
+    margin-top: -70px;
+}
