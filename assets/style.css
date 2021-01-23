@@ -21,8 +21,8 @@
     margin-top: -70px;
 }
 .rounded{
-    width: 320px;
-    margin-left: 90px;
+    width: 220px;
+    margin-left: 190px;
     margin-top: 90px;
     margin-bottom: 30px;
 }
@@ -66,4 +66,13 @@
 
 .imgFlu{
     width: 50rem;
+}
+.lni {
+    padding: 15px;
+    padding-top: 15px;
+    padding-right: 15px;
+    padding-bottom: 15px;
+    padding-left: 15px;
+    font-size: 55px;
+    
 }
